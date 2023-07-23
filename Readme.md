@@ -19,3 +19,5 @@ Attribute Information
 11) smoking_status: "formerly smoked", "never smoked", "smokes" or "Unknown"*
 12) stroke: 1 if the patient had a stroke or 0 if not
 *Note: "Unknown" in smoking_status means that the information is unavailable for this patient
+
+The tool used will be the Jupyter Notebook through the Spark.
